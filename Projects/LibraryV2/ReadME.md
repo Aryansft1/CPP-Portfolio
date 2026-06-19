@@ -52,3 +52,54 @@
 ---
 
 ## 📷 نمونه خروجی
+Book name: C++
+Author: Bjarne
+Pages: 300
+Add another book? (y/n): y
+
+Book name: Algorithms
+Author: CLRS
+Pages: 1200
+Add another book? (y/n): n
+
+All Books:
+Name: C++
+Author: Bjarne
+Pages: 300
+
+Name: Algorithms
+Author: CLRS
+Pages: 1200
+
+Book With Most Pages:
+Name: Algorithms
+Author: CLRS
+Pages: 1200
+
+---
+
+## 🎯 هدف پروژه
+
+این پروژه برای تمرین مفاهیم زیر طراحی شده است:
+
+- ✔ استفاده از `vector` در C++
+- ✔ ساختارها (struct)
+- ✔ حلقه‌های تکرار
+- ✔ مدیریت ورودی پویا
+- ✔ الگوریتم ساده جستجو
+
+---
+
+## 🔮 ایده‌های توسعه
+
+- 💾 ذخیره اطلاعات در فایل
+- 🔎 جستجوی کتاب بر اساس نام یا نویسنده
+- 📊 مرتب‌سازی کتاب‌ها بر اساس صفحات
+- 🖥️ تبدیل به اپلیکیشن گرافیکی
+- 🏷️ اضافه کردن ID برای هر کتاب
+
+---
+
+## 👨‍💻 توسعه‌دهنده
+
+> ساخته شده برای تمرین C++ و یادگیری کار با داده‌های داینامیک ❤️
